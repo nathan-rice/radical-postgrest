@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "declaration": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "removeComments": true,
+    "jsx": "react"
+  },
+  "files": [
+    "src/radical.ts"
+  ]
+}
